@@ -37,5 +37,3 @@ Following various software design patterns, 7 step SDLC life cycle and a scrum d
 ## Client
 Checking
 
-# License
-// TODO
